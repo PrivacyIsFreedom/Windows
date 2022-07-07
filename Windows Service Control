@@ -1079,7 +1079,7 @@ start https://yewtu.be/channel/UCb5DJKYvC4fzjzv7oQbmFRA
 goto start
 pause
 :D
-start https://pastebin.com/u/Windows-Management
+start https://github.com/Windows-Management/Windows-Management
 goto start
 pause
 :R
