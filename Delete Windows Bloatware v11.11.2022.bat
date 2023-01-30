@@ -13,8 +13,8 @@ takeown /s %computername% /u %username% /f "%WinDir%\Program Files\Internet Expl
 takeown /s %computername% /u %username% /f "%WinDir%\Windows\bcastdvr"
 takeown /s %computername% /u %username% /f "%WinDir%\Users\%username%\AppData\Local\Microsoft\GameDVR"
 takeown /s %computername% /u %username% /f "%WinDir%\Users\%username%\AppData\Local\Microsoft\Edge"
-takeown /s %computername% /u %username% /f "%WinDir%\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
-takeown /s %computername% /u %username% /f "%WinDir%\Windows\System32\oobe\UserOOBEBroker.exe
+takeown /s %computername% /u %username% /f "%WinDir%\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"
+takeown /s %computername% /u %username% /f "%WinDir%\Windows\System32\oobe\UserOOBEBroker.exe"
 icacls "%WinDir%\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" /grant %username%:F administrators:F /t /c
 icacls "%WinDir%\System32\Broadcastdvr.exe" /grant %username%:F administrators:F /t /c
 icacls "%WinDir%\System32\upfc.exe" /grant %username%:F administrators:F /t /c
