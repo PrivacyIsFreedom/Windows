@@ -1,0 +1,64 @@
+➤ Start
+
+ • optimize bios settings
+ • download iso file and create bootable usbdrive
+ • download drivers and programs latest version
+ • copy all drivers and programs to external drive or USB drive
+
+ • Wipe systemdrive clean if OS currently installed
+ • Starting here - after installation:
+ • disable all unnecessary services and tasks (batfile)
+ • run performance and privacy script         (batfile)
+ • delete bloatware                           (batfile)
+ • disable update orchestrator tasks with nsudo
+ • run shutup10 privacy tool
+ • optimize system responsiveness in registry
+ • create task to automatically clear tempfiles and start taskmanager on boot
+ • install drivers (cpu chipest, gpu graphics, etc) [NVCleanstall]
+ • optimize graphics driver control panel settings
+
+ • file explorer <
+ • change fast access to this pc
+ • do not show recently used items
+ • disable hide file extensions for known file types
+ • enable show hidden files
+
+ • create desktop shortcut for useful programs (controlpanel, programs, etc)
+ • create desktop shortcut for tempfiles C:\Users\User\AppData\Local\Temp
+ • press shift 5 times (disable locking function, games use it for crouch)
+ • if windows defender is installed, add exclusions for all trusted drives
+ • set wallpaper
+ • msconfig enable all cpu cores on system boot
+
+ • file explorer <
+ • network advanced sharing settings
+ • network adapter settings
+ • remove all checkmarks expect IPv4
+ • change DNS server to Quad9
+   9.9.9.9         - IPv4
+   149.112.112.112 - IPv4 alternate
+   2620:fe::fe     - IPv6
+   2620:fe::9      - IPv6 alternate
+
+ • optimize windows system settings (privacy, performance, customisation, etc)
+ • control panel <
+ • large symbols
+ • mouse + keyboard
+ • control panel <
+ • power plan settings
+ • control panel <
+ • system
+ • advanced system setting
+
+ • install vc redistributables visual C++ (visual studio)
+ • install basic programs:
+ • (portmaster, simplewall, vlc mediaplayer, everythingsearch, notepad++, 7zip, hwmonitor)
+ • (librewolf webbrowser, mullvad VPN, qBittorrent, obs studio, msi-afterburner, steam, etc)
+ • set default apps (to open links, photos, videos, audio, etc)
+
+ • going online first time
+ • install microsoft directx
+ • install drivers and programs that force online connection
+ • configure librewolf webbrowser (import custom settings & bookmarks)
+
+➤ End
