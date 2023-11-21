@@ -1,0 +1,165 @@
+🔻 You should know:
+
+
+• Website to find Privacy Tools       https://privacyguides.org/
+• Website to find Privacy Tools       https://privacytools.io/
+• Website for Privacy Webbrowsers     https://privacytests.org/
+• Website for Privacy Alternatives    https://alternativeto.net/
+• Privacy Money                       Cash - Monero
+
+• The Hated One                       https://yewtu.be/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+• Naomi Brockwell: NBTV               https://yewtu.be/channel/UCSuHzQ3GrHSzoBbwrIq3LLA
+• Mental Outlaw                       https://yewtu.be/channel/UC7YOGHUfC1Tb6E4pudI9STA
+• Eric Murphy                         https://yewtu.be/channel/UC5KDiSAFxrDWhmysBcNqtMA
+• Edward Snowden - US Whistleblower many interviews on youtube
+• Julian Assange - Founder of wikileaks.org
+
+• Laptop without IntelME Government Backdoor https://system76.com/
+• Laptop without IntelME Government Backdoor https://www.tuxedocomputers.com/en
+
+
+🔻 Make Windows Private with these tools:
+
+
+• Windows Privacy Script              https://privacy.sexy/
+• Windows Privacy Script              https://github.com/TairikuOokami/Windows
+• Windows Privacy Program             https://oo-software.com/shutup10
+• Windows Stop Unnecessary Services   https://codeberg.org/PrivacyIsFreedom/Windows
+• Windows System Power-Tool           https://github.com/M2TeamArchived/NSudo/releases
+• Nvidia Driver without Spyware       https://techpowerup.com/download/techpowerup-nvcleanstall/
+• Instant Windows Search Alternative  https://www.voidtools.com/
+• Privacy Firewall Program            https://safing.io/portmaster/
+• Privacy Firewall Program            https://henrypp.org/product/simplewall
+• Private VPN, no logs                https://mullvad.net/en
+• Free VPN, no logs                   https://protonvpn.com/download
+• Webbrowser for PC                   https://librewolf.net/
+• Webbrowser for PC                   https://librewolf.net (portable version)
+• Webbrowser for PC                   https://torproject.org/download/
+• Webbrowser for PC                   https://mullvad.net/en/browser
+• Webbrowser AdBlocker Extension      https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+• Search Engine | privacy focused     https://searx.space/
+• Search Engine | privacy focused     https://houtworm.xyz/search
+• Search Engine                       https://search.brave.com/
+• Youtube Privacy Version             https://api.invidious.io/
+• Youtube Privacy Version             https://yewtu.be
+• Free, Opensource Torrent Client     https://www.qbittorrent.org/
+• Free, Opensource RGB Software       https://openrgb.org/
+• Free, Opensource FAN Software       https://github.com/Rem0o/FanControl.Releases
+• Free, Opensource Audio Player       https://audacious-media-player.org/download
+• Free, Opensource Video Player       https://www.videolan.org/vlc/
+• Free, Opensource Recording Software https://obsproject.com/
+• Cloud Storage Alternative           https://mega.nz/login
+• Email Provider                      https://account.proton.me/login
+• Email Provider                      https://mail.tutanota.com
+• Privacy DNS Provider                https://quad9.net/
+• Discord with better Privacy         https://github.com/SpacingBat3/WebCord/releases
+• Discord with better Privacy         https://github.com/Vencord/Vesktop/releases
+• Privacy DNS Provider                https://applied-privacy.net/services/dns/
+
+🔻 Other Useful Computer Services for Windows/Linux:
+
+
+• Scan any Website for Trackers       https://pagexray.fouanalytics.com/
+• Find any music you want             https://www.aha-music.com/upload
+• Download any music you want         https://bestmp3converter.com/
+• Download any video you want         https://github.com/yt-dlp/yt-dlp/releases
+• Torrent Website                     https://1337x.to
+• Torrent Website                     https://fitgirl-repacks.site/
+• Torrent Website                     https://thepiratebay.org/
+• Torrent Website                     https://torrentgalaxy.to/
+• Encryption                          https://veracrypt.fr
+• Signature Verification              https://gpg4win.org/download.html
+• Virtual Machine                     https://virtualbox.org/
+• Virtual Machine                     https://virt-manager.org/
+• Virtual Machine                     https://www.qemu.org/
+• Virtual Machine                     https://linux-kvm.org/page/Main_Page
+• Linux Mint Debian Edition           https://www.linuxmint.com/download_lmde.php
+• Tails                               https://tails.boum.org/install/
+• PoPOS                               https://pop.system76.com/
+• QubesOS                             https://qubes-os.org/
+• Whonix                              https://whonix.org/
+
+
+🔻 Make your Phone Private with these tools:
+
+
+• Privacy Operating System for Phone  https://download.lineageos.org/   | works on any android device
+• Privacy Operating System for Phone  https://forum.xda-developers.com/ | works on any android device
+• Privacy Operating System for Phone  https://grapheneos.org/           | works only on pixel devices
+• See how many Trackers an App has    https://exodus-privacy.eu.org/en/
+• Privacy Alternative for Googleplay  https://auroraoss.com/download/
+• Privacy Alternative for Googleplay  https://f-droid.org/
+• Privacy Webbrowser for Phone        https://github.com/uazo/cromite/releases
+• Private VPN, no logs, Phone and PC  https://mullvad.net/en
+• Free VPN, no logs, Phone and PC     https://protonvpn.com/download
+• Privacy Chat App for Phone          https://simplex.chat/
+• Privacy Chat App for Phone          https://briarproject.org/download-briar/
+• Other Useful Android Apps           DeBloater, Magisk, Termux
+
+
+🔻 Evil Anti-Privacy Services you should avoid:
+
+
+• Windows           Bill Gates spys on you and collects your private data. (modify the OS to make it private)
+• Epicgames         Chinese government spys on you and collects your private data.
+• Easy Anticheat    Chinese government spys on you and collects your private data.
+• Tiktok            Chinese government censorship and spys on you and collects your private data.
+• iPhone            Waste of money, privacy doesn't exist, supports slave-labour in china.
+• Android Phone     Privacy doesn't exist, you must install LineageOS or GrapheneOS for Privacy.
+• Google Search     CIA spying, censorship, Unique ID,collects every searchrequest and website visited.
+• Google Chrome     CIA spying, censorship, Unique ID,collects every searchrequest and website visited.
+• Google Playstore  CIA spying, censorship, Unique ID, spys on you and collects your private data.
+• Microsoft Edge    CIA spying, censorship, Unique ID, collects every searchrequest and website visited.
+• Opera Browser     CCP spying, censorship, Unique ID, collects every searchrequest and website visited.
+• Facebook          Mark Zuckerberg censorship and spys on you and collects your private data.
+• Instagram         Mark Zuckerberg censorship and spys on you and collects your private data.
+• Whatsapp          Mark Zuckerberg spys on you and collects your private data.
+• Snapchat          Records you at all times and collects your faceial biometric data.
+• Amazon            We all use it... but they supports slave-labour in china.
+• Spotify           Anti Freespeech censorship and spys on you and collects your private data.
+• Discord           If you have to use it then atleast get WebCord or Vencord instead.
+• Twitch            Censorship platform that spys on you and collects your private data.
+• Duckduckgo tracking scandal with microsoft became public, search engine is no longer private.
+• Startpage and Startmail have been acquired by system1, an adversting company, privacy might be undermined.
+
+
+🔻 What data do they collect? Well...
+
+
+• Unique Device ID
+• Unique Userprofile ID
+• Detailed personality profile - advertising ID
+• Microphone access 24/7 with voice recognition
+• Camera access 24/7 with facial recognition
+• Precise GPS geolocation tracking 24/7
+• IP Adress
+• Photos
+• Videos
+• Downloads
+• Documents
+• Contacts
+• Call history
+• Text messages content
+• Phone number
+• Email adress and email content
+• External Storage
+• Physical sensors
+• Fingerprint
+• Internet search requests
+• Internet search history
+• Visited websites including duration and content
+• Job / Work
+• Employer details
+• Financial status / income
+• Religion
+• Political profile
+• Medical profile
+• Relationship status
+• Residence
+• First name and family name
+• Gender / Sexuality
+• Nationality
+• Date of birth
+• Loction of birth
+• Credit card details
+• And more...
